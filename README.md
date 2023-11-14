@@ -1,4 +1,3 @@
-My name is vikas mncl
 
 Addressbook Tutorial
 ====================
